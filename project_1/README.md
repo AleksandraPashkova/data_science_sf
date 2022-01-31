@@ -28,8 +28,8 @@
 :arrow_up:[к оглавлению](#Оглавление)
 
 ### Краткая информация о данных
-* dst-3.0_16_1_hh_database.csv - база резюме, выгруженная с сайта поиска вакансий hh.ru
-* ExchangeRates.csv - выгрузка с ресерса MDF.RU курсов валют, встречающихся в наших данных за период с 29.12.2017 по 05.12.2019 гг.
+* [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1so6IGxM2is7_yEs7OCs7HvQhDKtJeeNN/view?usp=sharing) - база резюме, выгруженная с сайта поиска вакансий hh.ru
+* [ExchangeRates.csv](https://drive.google.com/file/d/1VhskeBPpQnutB_AMPKTNVJzJVzZ6l5cO/view?usp=sharing) - выгрузка с ресерса MDF.RU курсов валют, встречающихся в наших данных за период с 29.12.2017 по 05.12.2019 гг.
   
 :arrow_up:[к оглавлению](#Оглавление)
 
